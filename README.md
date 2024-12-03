@@ -12,7 +12,7 @@ I am a passionate Computer Science enthusiast from **RUET**, driven by a relentl
 
 ## 🔍 **Professional Snapshot**
 - **🎓 Academic Pursuit**:  
-  Bachelor of Science in Computer Science & Engineering, **RUET**
+  Bachelor of Science in Computer Science & Engineering, **RUET**  
 - **🌍 Career Aspiration**:  
   To ascend to the role of CTO/CEO at a leading MAANG corporation by age 30  
 - **💡 Guiding Philosophy**:  
@@ -45,10 +45,20 @@ A feature-rich web platform designed to track daily activities with real-time co
 - **Key Features:** Google Authentication, PDF Reports, Dynamic Data Management  
 - **Tech Stack:** FastAPI, PostgreSQL, HTML, Tailwind  
 
+### 🍽️ **Meal Management System**  
+An intuitive application for managing meal plans, tracking consumption, and optimizing daily nutrition.  
+- **Key Features:** Meal scheduling, real-time updates, and expense management.  
+- **Tech Stack:** Python (Flask), PostgreSQL, Tailwind  
+
+### 🏫 **Digital Classroom Platform**  
+A comprehensive platform facilitating seamless digital learning experiences for students and educators.  
+- **Key Features:** Class scheduling, assignment tracking, and real-time communication tools.  
+- **Tech Stack:** FastAPI, Firebase, Bootstrap  
+
 ### 💡 **Advanced Problem-Solving in C++ and Python**  
 Developed optimized algorithms and solutions for complex computational challenges, including Fibonacci sequence analysis and data structure implementations.  
 
-📂 Explore more in my [GitHub Repositories](https://github.com/rofazhasan).  
+📂 Explore these and more in my [GitHub Repositories](https://github.com/rofazhasan).  
 
 ---
 
@@ -77,8 +87,3 @@ Developed optimized algorithms and solutions for complex computational challenge
 **Let’s innovate, collaborate, and build a future driven by technology and purpose.** 🚀  
 
 🌟 *"True success lies not just in reaching the destination, but in the journey of relentless growth and impact."* 🌟  
-
-<!---
-rofazhasan/rofazhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
