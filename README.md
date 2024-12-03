@@ -1,6 +1,3 @@
-Here's an enhanced version with more sophisticated language:
-
----
 
 # 🌟 **Md. Rofaz Hasan Rafiu**  
 **Aspiring Backend Developer | CSE Student at RUET | Future Technology Leader**
