@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a **Software Engineering undergraduate at RUET** specializing in scalable backend architecture, cloud computing, and AI systems. I am passionate about solving complex real-world problems through clean code, microservices architecture, and high-performance system design. 
+I am a **Computer Science & Engineering student at RUET** specializing in scalable backend architecture, cloud computing, and AI systems. I am passionate about solving complex real-world problems through clean code, microservices architecture, and high-performance system design. 
 
 - 🔭 **Currently working on:** Enterprise-grade AI systems and highly scalable RESTful APIs.
 - 🌱 **Currently learning:** Advanced Deep Learning architectures and AWS Cloud Infrastructure.
